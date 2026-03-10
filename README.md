@@ -1,0 +1,2 @@
+# wifiqr
+Generátor WiFi
